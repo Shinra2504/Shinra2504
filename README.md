@@ -2,9 +2,9 @@
 
 # 👋 Olá, eu sou Willian Kelvyn!
 
-🔭 Apaixonado por tecnologia, adoro explorar as diversas possibilidades que o desenvolvimento de software oferece. Cada linha de código é uma oportunidade para criar algo inovador e transformar ideias em realidade.
+🔭 Apaixonado por tecnologia. Cada linha de código é uma oportunidade para criar algo inovador e transformar ideias em realidade.
 
-# 🚀 Tecnologias & Ferramentas
+# 🚀 Tech Stack
 
 
 ---
@@ -20,35 +20,8 @@
 
 ---
 
-# 💼 Projetos em Destaque
-
-Conversor de Arquivo | Repositório
-
-Um conversor de arquivos em C++ que utiliza FFmpeg para transformar arquivos em diferentes formatos, facilitando o trabalho com mídia.
-
-
-Pulso | Repositório
-
-Um banco de dados simples de chave-valor desenvolvido em JavaScript, projetado para ser leve e fácil de integrar com outros projetos.
-
-
-
-
----
-
-# 📊 Atividade Recente
-
-Participação em repositórios de projetos em várias linguagens, incluindo C++, JavaScript, e mais.
-
-Contribuições frequentes e comprometimento em melhorar minhas habilidades constantemente.
-
-
-
----
-
 # 🌱 Em Aprendizado
-
-Sempre explorando novas tecnologias e aprimorando habilidades em Desenvolvimento Web, Banco de Dados, e Desenvolvimento de Software. Atualmente, focado em aprender mais sobre desenvolvimento backend e otimização de processos.
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 
 ---
